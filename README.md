@@ -1,1 +1,1 @@
-# Proyecto Sistema contabilidad  
+# Proyecto Sistema Contabilidad  
